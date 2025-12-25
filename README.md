@@ -2,11 +2,11 @@
 
 A curated collection of operational documentation templates, guidelines, and standards designed to reduce friction and improve consistency across Engineering, Product, and Security teams.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 This repository is organized into **Guidelines** (meta-documentation and standards) and **Templates** (copy-pasteable markdown files).
 
-### 📚 Guidelines (`/guidelines`)
+###  Guidelines (`/guidelines`)
 
 *Standards, philosophies, and how-to guides.*
 
@@ -21,11 +21,11 @@ This repository is organized into **Guidelines** (meta-documentation and standar
 
 ---
 
-### 📝 Templates (`/templates`)
+###  Templates (`/templates`)
 
 *Ready-to-use markdown templates for daily operations.*
 
-#### 🔹 Core (`/templates/core`)
+####  Core (`/templates/core`)
 
 *General purpose documentation for architecture and state.*
 
@@ -34,7 +34,7 @@ This repository is organized into **Guidelines** (meta-documentation and standar
 * **[Configuration Capture](templates/core/configuration_capture.md)**: A snapshot template for capturing environment state (versions, flags, env vars) during verification.
 * **[Stakeholder Status Update](templates/core/stakeholder_status.md)**: High-level executive summary format (BLUF, RAG Status, Wins, Blockers).
 
-#### 🔹 Operations (`/templates/ops`)
+####  Operations (`/templates/ops`)
 
 *Incident management and on-call tools.*
 
@@ -42,7 +42,7 @@ This repository is organized into **Guidelines** (meta-documentation and standar
 * **[On-Call Handover](templates/ops/oncall_handover.md)**: Structured note for passing context between on-call shifts (Key Incidents, Watchlist).
 * **[Runbook](templates/ops/runbook.md)**: Standardized template for actionable alerts (Trigger, Severity, Remediation, Rollback).
 
-#### 🔹 Security (`/templates/security`)
+####  Security (`/templates/security`)
 
 *DevSecOps and compliance artifacts.*
 
@@ -50,7 +50,7 @@ This repository is organized into **Guidelines** (meta-documentation and standar
 * **[Threat Model (STRIDE)](templates/security/threat_model.md)**: Template for conducting and documenting threat analysis using the STRIDE methodology.
 * **[Vulnerability Report](templates/security/vulnerability_report.md)**: Format for tracking CVEs, remediation plans, and false positives.
 
-#### 🔹 Sprint (`/templates/sprint`)
+####  Sprint (`/templates/sprint`)
 
 *Agile ceremonies and planning.*
 
@@ -60,7 +60,7 @@ This repository is organized into **Guidelines** (meta-documentation and standar
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Browse**: Navigate to the folder relevant to your current task.
 2. **Copy**: Copy the raw Markdown content.
